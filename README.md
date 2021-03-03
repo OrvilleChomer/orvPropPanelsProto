@@ -11,7 +11,7 @@ You have seen property panels in various IDEs. You've seen them in graphics edit
 |   1.00  | TBD          | Initial Release of Library |
 
 ## Features
-- Will read and update the specified properties of a JavaScript object that you provide.
+- Will automatically read and update the specified properties of a JavaScript object that you provide.
 - For an individual property you can specify and alternate object to use instead.
 - Or, for an individual property you can specify and additional object which will be read and updated as well
 - You can specify the data type of each property.
