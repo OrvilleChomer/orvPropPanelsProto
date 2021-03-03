@@ -7,7 +7,7 @@ You have seen property panels in various IDEs. You've seen them in graphics edit
 
 | Version | Release Date | Description |
 | ------- | ------------ | ----------- |
-|   1.01  | Mar 2, 2021  | Bug fixes   |
+|   1.01  | Mar 2, 2021  | Bug fixes, file name change, ability to edit CSS values with UOM   |
 |   1.00  | TBD          | Initial Release of Library |
 
 ## Features
