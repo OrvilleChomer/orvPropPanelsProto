@@ -5,6 +5,11 @@ You have seen property panels in various IDEs. You've seen them in graphics edit
 
 ## Versions
 
+| Version | Release Date | Description |
+| ------- | ------------ | ----------- |
+|   1.01  | Mar 2, 2021  | Bug fixes   |
+|   1.00  | TBD          | Initial Release of Library |
+
 ## Features
 - Will read and update the specified properties of a JavaScript object that you provide.
 - For an individual property you can specify and alternate object to use instead.
