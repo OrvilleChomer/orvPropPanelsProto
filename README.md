@@ -19,4 +19,8 @@ You have seen property panels in various IDEs. You've seen them in graphics edit
 
 ## Adding A Panel to Your Project
 
+```html
+<script src="" deferred></script>
+```
+
 ##
