@@ -3,7 +3,7 @@ A JavaScript Library for easily adding Property Panels to your web pages.
 
 You have seen property panels in various IDEs. You've seen them in graphics editors like Adobe Photoshop, Adobe Illustrator, Affinity Photo, and Affinity Designer. This library allows you to easily add a fully functional property panel to your web page.
 
-## Versions
+## Version History
 
 | Version | Release Date | Description |
 | ------- | ------------ | ----------- |
