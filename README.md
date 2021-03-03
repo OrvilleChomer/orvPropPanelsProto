@@ -12,6 +12,6 @@ You have seen property panels in various IDEs. You've seen them in graphics edit
 - You can specify the data type of each property.
 - You can add an EventListener to a Property Panel object for a 'change' event which will fire whenever a user changes the value of a property
 
-## Adding to Your Project
+## Adding A Panel to Your Project
 
 ##
