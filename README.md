@@ -12,15 +12,17 @@ At this point, it now has a dependency of:  orvCore.js for some of it's function
 
 | Version | Release Date | Description |
 | ------- | ------------ | ----------- |
-|   1.01  | Mar 2, 2021  | Bug fixes, file name change, ability to edit CSS values with UOM   |
-|   1.00  | ???          | Initial Release of Library |
+|   1.012 | May 9, 2021  | Bug fixes, error handling, oncommit functionality |
+|   1.010 | Mar 2, 2021  | Bug fixes, file name change, ability to edit CSS values with UOM   |
+|   1.000 | ???          | Initial Release of Library |
 
 ## Features
 - Will automatically read and update the specified properties of a JavaScript object that you provide.
-- For an individual property you can specify and alternate object to use instead.
+- For an individual property you can specify an alternate object to use instead.
 - Or, for an individual property you can specify and additional object which will be read and updated as well
 - You can specify the data type of each property.
 - You can add an EventListener to a Property Panel object for a 'change' event which will fire whenever a user changes the value of a property
+- You can set an oncommit function on a Property Object when a property value change is committed to
 
 ## Adding A Panel to Your Project
 
