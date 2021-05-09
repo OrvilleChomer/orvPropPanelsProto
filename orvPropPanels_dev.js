@@ -3,8 +3,9 @@
 
     VERSIONS:      DESCRIPTION:
     =========      ============
-      1.01         Bug fixes, edit CSS values with Units of Measure
-      1.0          Initial Version
+      1.012        Bug fixes, error handling, oncommit functionality
+      1.010        Bug fixes, edit CSS values with Units of Measure
+      1.000        Initial Version
 
     Key Code Reference Tags:
          -  #library_constructor                 🔨🔨 [LIBRARY] CONSTRUCTOR 🔨🔨
